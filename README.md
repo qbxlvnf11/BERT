@@ -26,7 +26,7 @@ https://www.kaggle.com/uciml/news-aggregator-dataset
 References
 =============
 
-- Paper (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 https://arxiv.org/abs/1810.04805
 
