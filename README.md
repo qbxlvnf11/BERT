@@ -44,4 +44,6 @@ https://arxiv.org/abs/1810.04805
 Code correction
 =============
 
+- BERT_base_uncased_multi_class_classification.ipynb
 
+[66] block: train_loss -> loss
