@@ -34,10 +34,6 @@ https://arxiv.org/abs/1810.04805
 
 https://github.com/shudima/notebooks
 
-- Paper [ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ]
-
-https://arxiv.org/abs/1810.04805
-
 Code correction
 =============
 
