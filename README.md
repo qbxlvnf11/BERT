@@ -15,6 +15,8 @@ Contents
 
 - BERT implemented by pytorch for multi class classification
 
+- BERT implemented by ktrain in keras for binary classification
+
 Datasets
 =============
 
@@ -22,6 +24,9 @@ Datasets
 
 https://www.kaggle.com/uciml/news-aggregator-dataset
 
+- Detecting Insults in Social Commentary
+
+https://www.kaggle.com/c/detecting-insults-in-social-commentary
 
 References
 =============
@@ -30,9 +35,15 @@ References
 
 https://arxiv.org/abs/1810.04805
 
+- Keras ktrain
+
+https://towardsdatascience.com/bert-text-classification-in-3-lines-of-code-using-keras-264db7e7a358
+
 - Code
 
 https://github.com/shudima/notebooks
+
+https://github.com/amaiya/ktrain/blob/master/examples/text/IMDb-BERT.ipynb
 
 Code correction
 =============
