@@ -51,3 +51,7 @@ Code correction
 - BERT_base_uncased_multi_class_classification.ipynb
 
 [66] block: train_loss -> loss
+
+- BERT implemented by ktrain in keras for binary classification
+
+[4] block: changing name of axis X & y asxis
