@@ -54,4 +54,4 @@ Code correction
 
 - BERT implemented by ktrain in keras for binary classification
 
-[4] block: changing name of axis X & y asxis
+[4] block: changing name of X axis & Y asxis
