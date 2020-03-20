@@ -6,7 +6,7 @@ Blog URL: https://blog.naver.com/qbxlvnf11
 LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 
 
-- Case of BERT (Bidirectional Encoder Representations from Transformers) utilization
+- Case of contextualized embedding model BERT (Bidirectional Encoder Representations from Transformers) utilization (fine-tune)
 - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
