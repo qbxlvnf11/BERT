@@ -15,7 +15,6 @@ Contents
 =============
 
 - BERT implemented by pytorch for multi class classification
-
 - BERT implemented by ktrain in keras for binary classification
 
 Datasets
