@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 
 
 - Case of contextualized embedding model BERT (Bidirectional Encoder Representations from Transformers) utilization
-- Fine-tune etc.
+- BERT fine-tune etc.
 - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
