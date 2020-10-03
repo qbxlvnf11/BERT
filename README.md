@@ -2,7 +2,8 @@ Description
 =============
 
 #### - Case of contextualized embedding model BERT (Bidirectional Encoder Representations from Transformers) utilization
-- BERT fine-tune etc.
+- Implementation of BERT fine-tune
+- Text classification based BERT fine-tune
 #### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
