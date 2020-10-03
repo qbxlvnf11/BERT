@@ -1,10 +1,5 @@
-
-It is posted by Yong (예비개발자).
-
-Blog URL: https://blog.naver.com/qbxlvnf11
-
-LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
-
+Description
+=============
 
 - Case of contextualized embedding model BERT (Bidirectional Encoder Representations from Transformers) utilization
 - BERT fine-tune etc.
@@ -45,7 +40,7 @@ https://github.com/shudima/notebooks
 
 https://github.com/amaiya/ktrain/blob/master/examples/text/IMDb-BERT.ipynb
 
-Code correction
+Erratum of Jupyter Notebook Files
 =============
 
 - BERT_base_uncased_multi_class_classification.ipynb
@@ -55,3 +50,12 @@ Code correction
 - BERT implemented by ktrain in keras for binary classification
 
 [4] block: changing name of X axis & Y asxis
+
+Author
+=============
+
+#### - LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
+
+#### - Blog URL: https://blog.naver.com/qbxlvnf11
+
+#### - Email: qbxlvnf11@google.com, qbxlvnf11@naver.com
