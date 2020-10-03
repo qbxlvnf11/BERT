@@ -1,16 +1,17 @@
 Description
 =============
 
-- Case of contextualized embedding model BERT (Bidirectional Encoder Representations from Transformers) utilization
+#### - Case of contextualized embedding model BERT (Bidirectional Encoder Representations from Transformers) utilization
 - BERT fine-tune etc.
-- Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
+#### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
 Contents
 =============
 
-#### - BERT fine-tune implemented by pytorch for multi class classification
-#### - BERT fine-tune implemented by ktrain in keras for binary classification
+#### - BERT fine-tune
+- Implemented by pytorch for multi class classification
+- Implemented by ktrain in keras for binary classification
 
 Datasets
 =============
