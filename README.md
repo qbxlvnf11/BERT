@@ -1,7 +1,8 @@
 Description
 =============
-
+<img src="https://user-images.githubusercontent.com/52263269/98573579-5c431280-22fa-11eb-8504-381f52b7b29f.png" width="90%"></img>
 #### - Case of contextualized embedding model BERT (Bidirectional Encoder Representations from Transformers) utilization
+#### - What is BERT? https://blog.naver.com/qbxlvnf11/222140142456
 #### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
