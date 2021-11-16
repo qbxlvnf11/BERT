@@ -1,18 +1,20 @@
 Description
 =============
 #### - BERT (Bidirectional Encoder Representation of Transformer)
-<img src="https://user-images.githubusercontent.com/52263269/98573579-5c431280-22fa-11eb-8504-381f52b7b29f.png" width="90%"></img>
-#### - Case of contextualized embedding model BERT (Bidirectional Encoder Representations from Transformers) utilization
-#### - What is BERT? https://blog.naver.com/qbxlvnf11/222140142456
+  
+  <img src="https://user-images.githubusercontent.com/52263269/98573579-5c431280-22fa-11eb-8504-381f52b7b29f.png" width="90%"></img>
+  
+  - What is BERT? https://blog.naver.com/qbxlvnf11/222140142456
+
 #### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
 Contents
 =============
 
-#### - Text Classification based BERT fine-tune
-- Implemented by pytorch for multi class classification
-- Implemented by ktrain in keras for binary classification
+#### - Text Classification based fine-tune of BERT
+  - Implemented by pytorch for multi class classification
+  - Implemented by ktrain in keras for binary classification
 
 Datasets
 =============
