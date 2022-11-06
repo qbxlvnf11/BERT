@@ -42,7 +42,7 @@ https://www.kaggle.com/competitions/nlp-getting-started/data?select=train.csv
 References
 =============
 
-#### - Paper [ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ]
+#### - Papers
 
 ```
 @article{BERT,
