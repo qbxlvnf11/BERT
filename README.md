@@ -20,9 +20,9 @@ Contents
 =============
 
 #### - Fine-tuning of BERT for text classification
-  - BERT implementation with pytorch-pretrained-BERT library
-  - BERT implementation with keras ktrain library
-  - DistilBERT implementation with huggingface transformers library
+  - [BERT implementation with pytorch-pretrained-BERT library](https://github.com/qbxlvnf11/BERT-series/blob/master/pytorch_pretrained_BERT.ipynb)
+  - [BERT implementation with keras ktrain library](https://github.com/qbxlvnf11/BERT-series/blob/master/ktrain_BERT.ipynb)
+  - [DistilBERT implementation with huggingface transformers library](https://github.com/qbxlvnf11/BERT-series/blob/master/huggingface_DistilBERT.ipynb)
 
 Datasets
 =============
