@@ -1,10 +1,17 @@
 Description
 =============
-#### - BERT (Bidirectional Encoder Representation of Transformer)
+#### - BERT (Bidirectional Encoder Representation of Transformer) fine-tune
   
   <img src="https://user-images.githubusercontent.com/52263269/98573579-5c431280-22fa-11eb-8504-381f52b7b29f.png" width="90%"></img>
   
   - What is BERT? https://blog.naver.com/qbxlvnf11/222140142456
+
+#### - DistilBERT
+  - The Distilling Knowledge method is applied to the existing BERT model
+  - Similar performance while having a much smaller size and faster speed
+  - Distilling Knowledge method
+  
+  <img src="https://user-images.githubusercontent.com/52263269/200163187-38c7f804-18f1-4062-b59e-23ff2c8d5010.png" width="90%"></img>  
 
 #### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
@@ -12,9 +19,10 @@ Description
 Contents
 =============
 
-#### - Text Classification based fine-tune of BERT
-  - Implemented by pytorch for multi class classification
-  - Implemented by ktrain in keras for binary classification
+#### - Fine-tuning of BERT for text classification
+  - BERT implementation with pytorch-pretrained-BERT library
+  - BERT implementation with keras ktrain library
+  - DistilBERT implementation with huggingface transformers library
 
 Datasets
 =============
@@ -27,33 +35,61 @@ https://www.kaggle.com/uciml/news-aggregator-dataset
 
 https://www.kaggle.com/c/detecting-insults-in-social-commentary
 
+#### - Disaster Tweets
+
+https://www.kaggle.com/competitions/nlp-getting-started/data?select=train.csv
+
 References
 =============
 
 #### - Paper [ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ]
 
-https://arxiv.org/abs/1810.04805
+```
+@article{BERT,
+  title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
+  author={Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova},
+  journal = {arXiv},
+  year={2018}
+}
+```
 
-#### - Keras ktrain
+```
+@article{DistilBERT,
+  title={DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter},
+  author={Victor Sanh, Lysandre Debut, Julien Chaumond, Thomas Wolf},
+  journal = {arXiv},
+  year={2019}
+}
+```
+
+#### - ktrain
 
 https://towardsdatascience.com/bert-text-classification-in-3-lines-of-code-using-keras-264db7e7a358
 
-#### - Code
+https://github.com/amaiya/ktrain/blob/master/examples/text/IMDb-BERT.ipynb
+
+#### - pytorch-pretrained-BERT
+
+https://pypi.org/project/pytorch-pretrained-bert/
 
 https://github.com/shudima/notebooks
 
-https://github.com/amaiya/ktrain/blob/master/examples/text/IMDb-BERT.ipynb
+#### - huggingface transformers BERT
+
+https://github.com/huggingface/transformers
+
+https://www.kaggle.com/code/donkeys/distilbert-xlnet-with-tf-and-huggingface/notebook
 
 Erratum of Jupyter Notebook Files
 =============
 
-#### - BERT_base_uncased_multi_class_classification.ipynb
+#### - pytorch_pretrained_BERT.ipynb
 
 - [66] block: train_loss -> loss
 
-#### - BERT implemented by ktrain in keras for binary classification
+#### - ktrain_BERT.ipynb
 
-- [4] block: changing name of X axis & Y asxis
+- [4] block: changing name of X axis and Y axis of plot
 
 Author
 =============
